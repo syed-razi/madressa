@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/react": "^2.2.1",
     "@astrojs/tailwind": "^4.0.0",
+    "@fontsource-variable/archivo": "^5.0.9",
     "@headlessui/react": "^1.7.16",
     "@heroicons/react": "^2.0.18",
     "@types/react": "^18.2.20",
